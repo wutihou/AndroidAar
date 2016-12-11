@@ -1,0 +1,7 @@
+#Sun Dec 11 21:13:49 CST 2016
+base.0=E\:\\CodeRepertory\\MyCode\\AndroidAar\\TihouLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a634521d6c5a065f00ee710dbbf8cb4aea2e9034
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\CodeRepertory\\MyCode\\AndroidAar\\TihouLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ac2d85080fc2ce5d5e92713be1ab5edd7ec09a7\\classes.dex
+base.1=E\:\\CodeRepertory\\MyCode\\AndroidAar\\TihouLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5ac2d85080fc2ce5d5e92713be1ab5edd7ec09a7
+file.0=E\:\\CodeRepertory\\MyCode\\AndroidAar\\TihouLibrary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a634521d6c5a065f00ee710dbbf8cb4aea2e9034\\classes.dex
